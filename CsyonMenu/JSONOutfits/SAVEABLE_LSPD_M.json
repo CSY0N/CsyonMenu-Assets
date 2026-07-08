@@ -1,0 +1,84 @@
+{
+  "Hash": 1885233650,
+  "Outfits": [
+    {
+      "Componet": 0,
+      "Texture": 0,
+      "Varient": 0
+    },
+    {
+      "Componet": 1,
+      "Texture": 0,
+      "Varient": 0
+    },
+    {
+      "Componet": 2,
+      "Texture": 1,
+      "Varient": 0
+    },
+    {
+      "Componet": 3,
+      "Texture": 37,
+      "Varient": 0
+    },
+    {
+      "Componet": 4,
+      "Texture": 126,
+      "Varient": 0
+    },
+    {
+      "Componet": 5,
+      "Texture": 0,
+      "Varient": 0
+    },
+    {
+      "Componet": 6,
+      "Texture": 61,
+      "Varient": 0
+    },
+    {
+      "Componet": 7,
+      "Texture": 125,
+      "Varient": 0
+    },
+    {
+      "Componet": 8,
+      "Texture": 153,
+      "Varient": 0
+    },
+    {
+      "Componet": 9,
+      "Texture": 23,
+      "Varient": 9
+    },
+    {
+      "Componet": 10,
+      "Texture": 70,
+      "Varient": 1
+    },
+    {
+      "Componet": 11,
+      "Texture": 319,
+      "Varient": 0
+    }
+  ],
+  "Props": [
+    {
+      "Componet": 0,
+      "Texture": -1,
+      "Varient": -1
+    },
+    {
+      "Componet": 1,
+      "Texture": -1,
+      "Varient": -1
+    },
+    {
+      "Componet": 2,
+      "Texture": -1,
+      "Varient": -1
+    }
+  ],
+  "Z": "0",
+  "maden": "EPSILON"
+}
