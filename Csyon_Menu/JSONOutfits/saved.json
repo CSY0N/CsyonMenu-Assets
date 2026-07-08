@@ -1,0 +1,89 @@
+{
+    "Hash": 2627665880,
+    "Outfits": [
+        {
+            "Componet": 0,
+            "Texture": 0,
+            "Varient": 0
+        },
+        {
+            "Componet": 1,
+            "Texture": 215,
+            "Varient": 1
+        },
+        {
+            "Componet": 2,
+            "Texture": 3,
+            "Varient": 0
+        },
+        {
+            "Componet": 3,
+            "Texture": 3,
+            "Varient": 0
+        },
+        {
+            "Componet": 4,
+            "Texture": 19,
+            "Varient": 2
+        },
+        {
+            "Componet": 5,
+            "Texture": 0,
+            "Varient": 0
+        },
+        {
+            "Componet": 6,
+            "Texture": 49,
+            "Varient": 0
+        },
+        {
+            "Componet": 7,
+            "Texture": 118,
+            "Varient": 12
+        },
+        {
+            "Componet": 8,
+            "Texture": 10,
+            "Varient": 0
+        },
+        {
+            "Componet": 9,
+            "Texture": 0,
+            "Varient": 0
+        },
+        {
+            "Componet": 10,
+            "Texture": 0,
+            "Varient": 0
+        },
+        {
+            "Componet": 11,
+            "Texture": 184,
+            "Varient": 0
+        }
+    ],
+    "Props": [
+        {
+            "Componet": 0,
+            "Texture": -1,
+            "Varient": -1
+        },
+        {
+            "Componet": 1,
+            "Texture": 32,
+            "Varient": 5
+        },
+        {
+            "Componet": 2,
+            "Texture": -1,
+            "Varient": -1
+        },
+        {
+            "Componet": 3,
+            "Texture": -1,
+            "Varient": -1
+        }
+    ],
+    "Z": "0",
+    "maden": "GodPretender"
+}
